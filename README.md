@@ -14,7 +14,7 @@ ALSO CAN BE USE REGISTER OPTION ALSO AND SIMPLY WE CAN ADD PROFILE FOR ( ID AND 
 Notes Sharing App using django(python framework)
 
 # PREREQUISITES
-1.  Python Version >> 3.7.8
+1.  Python Version >> 3.12.2
 2.  Virtualenv setup
   
  
